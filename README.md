@@ -15,8 +15,3 @@ more than 9 days now :D
 I've written some of the features I remember <a href='https://gbrn-django-blog.herokuapp.com/blog'>HEREEEEEE</a>
 - Demo : <a href='https://gbrn-django-blog.herokuapp.com'>https://gbrn-django-blog.herokuapp.com</a>
 
-## Screenshot
-![Screenshots](https://github.com/gibran-abdillah/django-blog-app/raw/main/screenshot.png)
-
-## Want to add new features or reporting some bugs?
-any contribution is welcome, do what you have to do!
